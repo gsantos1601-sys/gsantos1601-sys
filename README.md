@@ -32,10 +32,10 @@ Actualmente curso la carrera de Desarrollo de Software y me especializo en Busin
 ## 💼 Experiencia Profesional
 
 ### **Supervisor Estadístico** — Amov International Teleservices  
-*Febrero 2026 – Presente*[cite: 1.2]
-- Supervisión directa del equipo de analistas de datos y estadísticos, garantizando la calidad y entrega oportuna de reportes críticos[cite: 1.2].
-- Unificación de reportes complejos para generar dashboards dinámicos y gerenciales utilizando Power Query, Power Automate, consultas SQL y Excel avanzado[cite: 1.2].
-- Desarrollo de flujos automatizados para extracción, procesamiento ETL y transferencia de archivos (Outlook, OneDrive)[cite: 1.2].
+*Febrero 2026 – Presente*.
+- Supervisión directa del equipo de analistas de datos y estadísticos, garantizando la calidad y entrega oportuna de reportes críticos.
+- Unificación de reportes complejos para generar dashboards dinámicos y gerenciales utilizando Power Query, Power Automate, consultas SQL y Excel avanzado.
+- Desarrollo de flujos automatizados para extracción, procesamiento ETL y transferencia de archivos (Outlook, OneDrive, power automate).
 
 ### **Estadístico / Analista de Datos** — Amov International Teleservices  
 *Agosto 2022 – Febrero 2026*[cite: 1.2]
@@ -44,31 +44,31 @@ Actualmente curso la carrera de Desarrollo de Software y me especializo en Busin
 - Elaboración de estimaciones de ventas, horas de producción, ingresos y tableros de control KPI interactivos[cite: 1.2].
 
 ### **Coordinador Staff** — Amov International Teleservices  
-*2021 – Agosto 2022*[cite: 1.2]
-- Monitoreo en tiempo real de niveles de servicio (SLAs), AHT, Call Work y Hold Time[cite: 1.2].
-- Control estricto del Headcount (HC), asignación de horarios, tiempos de descanso/almuerzo y análisis de desviaciones operativas[cite: 1.2].
-- Creación de pases de lista automáticos y reportes de asistencias en Excel[cite: 1.2].
+*2021 – Agosto 2022*.
+- Monitoreo en tiempo real de niveles de servicio (SLAs), AHT, Call Work y Hold Time.
+- Control estricto del Headcount (HC), asignación de horarios, tiempos de descanso/almuerzo y análisis de desviaciones operativas.
+- Creación de pases de lista automáticos y reportes de asistencias en Excel.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-- **Business Intelligence & Viz:** Power BI (Modelado de datos, DAX, Dashboards), Excel Avanzado (Power Query, Power Pivot, Macros VBA)[cite: 1.2].
-- **Lenguajes & Bases de Datos:** Python (Pandas, Matplotlib), SQL (Consultas avanzadas, uniones, conexiones directas SQL-Excel), SQLite[cite: 1.2].
-- **ETL & Automatización:** Power Automate, Power Query, flujos automáticos[cite: 1.2].
-- **Sistemas Operativos/Call Center:** Vicidial, Genesys Cloud, Engage[cite: 1.2].
-- **Entornos & Herramientas:** Google Colab, PyCharm, VS Code, Git, GitHub[cite: 1.2].
+- **Business Intelligence & Viz:** Power BI (Modelado de datos, DAX, Dashboards), Excel Avanzado (Power Query, Power Pivot, Dashboard).
+- **Lenguajes & Bases de Datos:** Python (Pandas, Matplotlib basico), SQL (Consultas avanzadas, uniones, conexiones directas SQL-Excel).
+- **ETL & Automatización:** Power Automate, Power Query, flujos automáticos.
+- **Sistemas Operativos/Call Center:** Vicidial, Genesys Cloud.
+- **Entornos & Herramientas:** Google Colab, PyCharm, VS Code, GitHub.
 
 ---
 
 ## 🏆 Logros y Reconocimientos
 
-- 🏅 **Empleado del Año:** Galardonado en 2019, 2024 y 2025[cite: 1.2].
-- 🥇 **Empleado del Mes:** Ganador en múltiples ocasiones consecutivas (2024 y 2025) y nominado al Empleado del Año (2021, 2022, 2023)[cite: 1.2].
+- 🏅 **Empleado del Año:** Galardonado desde 2019 hasta 2026, Ganador en 2019, 2024, 2025 y 2026 en renglon procesos.
+- 🥇 **Empleado del Mes:** Ganador en múltiples ocasiones consecutivas desde 2018 hasta 2026.
 
 ---
 
 📫 **Contacto & Redes:**
-- 📧 **Correo:** gsantos1601@gmail.com[cite: 1.2]
-- 📍 **Ubicación:** Santo Domingo Este, República Dominicana[cite: 1.2]
+- 📧 **Correo:** gsantos1601@gmail.com.
+- 📍 **Ubicación:** Santo Domingo Este, República Dominicana
 - 🐙 **GitHub:** [@gsantos1601-sys](https://github.com/gsantos1601-sys)
