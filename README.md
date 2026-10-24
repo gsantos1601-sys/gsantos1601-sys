@@ -1,50 +1,71 @@
 # 👨‍💻 Gerardo Narváez de los Santos
 ### Data Analyst | Business Intelligence Analyst | Software Development Student
 
-¡Hola! 👋 Bienvenido a mi perfil de GitHub. Soy profesional en análisis de datos y operaciones con más de 8 años de experiencia coordinando equipos, optimizando niveles de servicio (AHT, forecast) y construyendo soluciones analíticas para la toma de decisiones estratégicas. Actualmente estudio Desarrollo de Software y me especializo en Business Intelligence.
+¡Hola! 👋 Bienvenido a mi perfil de GitHub. Soy un profesional en analítica de datos y operaciones con más de 8 años de experiencia coordinando equipos, optimizando niveles de servicio (SLAs, AHT, forecast) y construyendo soluciones analíticas dinámicas para la toma de decisiones estratégicas[cite: 1.2]. Destacado por un sólido historial de reconocimientos por desempeño (Empleado del Año 2019, 2024 y 2025)[cite: 1.2]. 
+
+Actualmente curso la carrera de Desarrollo de Software y me especializo en Business Intelligence, automatización ETL y ciencia de datos[cite: 1.2].
 
 ---
 
 ## 🎓 Educación y Formación Académica
 
-- **Técnico Superior en Desarrollo de Software** · Instituto Técnico Superior Comunitario (ITSC)
-- **Programación SQL** · Instituto Tecnológico de las Américas (ITLA)
-- **Curso de Python Intermedio** · Cisco Networking Academy / ITLA
+- **Técnico Superior en Desarrollo de Software** · Instituto Técnico Superior Comunitario (ITSC)  
+  *Mayo 2024 – Actualidad (7mo Cuatrimestre)*[cite: 1.2]
+- **Diplomado y Programación en Bases de Datos con SQL** · Instituto Tecnológico de las Américas (ITLA) *(2026)*[cite: 1.2]
+- **Inglés por Inmersión** · MESCyT[cite: 1.2]
 
 ---
 
-## 📜 Certificaciones Profesionales
+## 📜 Certificaciones Profesionales y Cursos
 
-- 🐍 **Python Associate** · Talento Digital / CertiPlus
-- 📊 **Big Data Analyst Associate** · Talento Digital / CertiPlus
+- 🐍 **Programación Python Intermedio** · Cisco Networking Academy / ITLA *(Completado)*[cite: 1.2]
+- 🐍 **Python Associate Certification** · Talento Digital / CertiPlus[cite: 1.2]
+- 📊 **Big Data Analyst Associate Certification** · Talento Digital / CertiPlus[cite: 1.2]
+- 📈 **Big Data con Power BI** · Escuela Técnica de Negocios PYV *(2023)*[cite: 1.2]
+- 📑 **Excel Avanzado y Formulación** · INFOTEP y Udemy *(2024 - 2025)*[cite: 1.2]
 
 ---
 
 ## 💼 Experiencia Profesional
 
-- **Supervisor de Estadística y Datos / Analista de Datos** (8+ años en Call Center)
-  - Extracción y modelado de datos desde bases SQL, archivos Excel, CSV y portales web.
-  - Creación de dashboards dinámicos y reportes de KPIs con Power BI, Excel (Power Query/Power Pivot) y SQL.
-  - Automatización de flujos de trabajo con Power Automate para reportes periódicos.
-  - Control de métricas operacionales, cálculo de comisiones y modelos de estimación de ventas.
+### **Supervisor Estadístico** — Amov International Teleservices  
+*Febrero 2026 – Presente*[cite: 1.2]
+- Supervisión directa del equipo de analistas de datos y estadísticos, garantizando la calidad y entrega oportuna de reportes críticos[cite: 1.2].
+- Unificación de reportes complejos para generar dashboards dinámicos y gerenciales utilizando Power Query, Power Automate, consultas SQL y Excel avanzado[cite: 1.2].
+- Desarrollo de flujos automatizados para extracción, procesamiento ETL y transferencia de archivos (Outlook, OneDrive)[cite: 1.2].
+
+### **Estadístico / Analista de Datos** — Amov International Teleservices  
+*Agosto 2022 – Febrero 2026*[cite: 1.2]
+- Extracción, limpieza y consolidación de datos desde múltiples fuentes (Vicidial, SQL, Excel, CSV) para construir reportes ejecutivos[cite: 1.2].
+- Diseño, cálculo y auditoría de esquemas de incentivos, comisiones de ventas y bonificaciones de rendimiento del personal[cite: 1.2].
+- Elaboración de estimaciones de ventas, horas de producción, ingresos y tableros de control KPI interactivos[cite: 1.2].
+
+### **Coordinador Staff** — Amov International Teleservices  
+*2021 – Agosto 2022*[cite: 1.2]
+- Monitoreo en tiempo real de niveles de servicio (SLAs), AHT, Call Work y Hold Time[cite: 1.2].
+- Control estricto del Headcount (HC), asignación de horarios, tiempos de descanso/almuerzo y análisis de desviaciones operativas[cite: 1.2].
+- Creación de pases de lista automáticos y reportes de asistencias en Excel[cite: 1.2].
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-- **Análisis de Datos & BI:** Power BI, Microsoft Excel (Power Query, Power Pivot, Macros), SQL, Python (Pandas, Data Analysis).
-- **Desarrollo & Herramientas:** Python, SQL, Git, GitHub, Power Automate.
-- **Entornos de Trabajo:** Google Colab, VS Code, Vicidial.
+- **Business Intelligence & Viz:** Power BI (Modelado de datos, DAX, Dashboards), Excel Avanzado (Power Query, Power Pivot, Macros VBA)[cite: 1.2].
+- **Lenguajes & Bases de Datos:** Python (Pandas, Matplotlib), SQL (Consultas avanzadas, uniones, conexiones directas SQL-Excel), SQLite[cite: 1.2].
+- **ETL & Automatización:** Power Automate, Power Query, flujos automáticos[cite: 1.2].
+- **Sistemas Operativos/Call Center:** Vicidial, Genesys Cloud, Engage[cite: 1.2].
+- **Entornos & Herramientas:** Google Colab, PyCharm, VS Code, Git, GitHub[cite: 1.2].
 
 ---
 
-## 📂 Portafolio de Repositorios
+## 🏆 Logros y Reconocimientos
 
-- 🐍 [Python Laboratory](./python-laboratory) — Prácticas y proyectos en Python y Google Colab.
-- 📊 [Excel Data Analytics](./excel-data-analytics) — Dashboards, modelado de datos y automatizaciones en Excel.
-- 📈 [Power BI Portfolio](./powerbi-portfolio) — Reportes interactivos y modelos de datos en Power BI.
+- 🏅 **Empleado del Año:** Galardonado en 2019, 2024 y 2025[cite: 1.2].
+- 🥇 **Empleado del Mes:** Ganador en múltiples ocasiones consecutivas (2024 y 2025) y nominado al Empleado del Año (2021, 2022, 2023)[cite: 1.2].
 
 ---
 
 📫 **Contacto & Redes:**
-- **GitHub:** [@gsantos1601-sys](https://github.com/gsantos1601-sys)
+- 📧 **Correo:** gsantos1601@gmail.com[cite: 1.2]
+- 📍 **Ubicación:** Santo Domingo Este, República Dominicana[cite: 1.2]
+- 🐙 **GitHub:** [@gsantos1601-sys](https://github.com/gsantos1601-sys)
