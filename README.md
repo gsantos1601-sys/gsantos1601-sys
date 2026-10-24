@@ -10,19 +10,22 @@ Actualmente curso la carrera de Desarrollo de Software y me especializo en Busin
 ## 🎓 Educación y Formación Académica
 
 - **Técnico Superior en Desarrollo de Software** · Instituto Técnico Superior Comunitario (ITSC)  
-  *Mayo 2024 – Actualidad (7mo Cuatrimestre)*[cite: 1.2]
-- **Diplomado y Programación en Bases de Datos con SQL** · Instituto Tecnológico de las Américas (ITLA) *(2026)*[cite: 1.2]
-- **Inglés por Inmersión** · MESCyT[cite: 1.2]
+  *Mayo 2024 – Actualidad.
+
+- **Inglés por Inmersión** · MESCyT *(2022).*
 
 ---
 
 ## 📜 Certificaciones Profesionales y Cursos
 
-- 🐍 **Programación Python Intermedio** · Cisco Networking Academy / ITLA *(Completado)*[cite: 1.2]
-- 🐍 **Python Associate Certification** · Talento Digital / CertiPlus[cite: 1.2]
-- 📊 **Big Data Analyst Associate Certification** · Talento Digital / CertiPlus[cite: 1.2]
-- 📈 **Big Data con Power BI** · Escuela Técnica de Negocios PYV *(2023)*[cite: 1.2]
-- 📑 **Excel Avanzado y Formulación** · INFOTEP y Udemy *(2024 - 2025)*[cite: 1.2]
+- 🐍 **Programación Python Intermedio** · Cisco Networking Academy / ITLA *(2026)*.
+- 📊 **Ciencia De Datos - Nivel Intermedio** · Talento digital RD / Indotel (2025)*
+- 📊 **Diplomado y Programación en Bases de Datos con SQL** · Instituto Tecnológico de las Américas (ITLA) *(2025-2026)*.
+- 🐍 **Python Associate Certification** · CertiPlus *(Proceso)*
+- 📊 **Big Data Analyst Associate Certification** · CertiPlus *(Proceso)*
+- 📈 **Analista de datos avanzado con power bi** · Escuela Técnica de Negocios PYV *(2023)*.
+- 📈 **Power bi deskop** · Udemy *(2024)*.
+- 📑 **Excel Avanzado,Formulas, power query, power pivot** · INFOTEP y Udemy *(2024 - 2025)*.
 
 ---
 
