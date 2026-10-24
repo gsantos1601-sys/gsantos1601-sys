@@ -38,7 +38,7 @@ Actualmente curso la carrera de Desarrollo de Software y me especializo en Busin
 - Desarrollo de flujos automatizados para extracción, procesamiento ETL y transferencia de archivos (Outlook, OneDrive, power automate).
 
 ### **Estadístico / Analista de Datos** — Amov International Teleservices  
-*Agosto 2022 – Febrero 2026*[cite: 1.2]
+*Agosto 2022 – Febrero 2026*.
 - Extracción, limpieza y consolidación de datos desde múltiples fuentes (Vicidial, SQL, Excel, CSV) para construir reportes ejecutivos[cite: 1.2].
 - Diseño, cálculo y auditoría de esquemas de incentivos, comisiones de ventas y bonificaciones de rendimiento del personal[cite: 1.2].
 - Elaboración de estimaciones de ventas, horas de producción, ingresos y tableros de control KPI interactivos[cite: 1.2].
