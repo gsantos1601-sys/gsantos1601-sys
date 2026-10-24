@@ -1,4 +1,4 @@
-# 👨‍💻 Gerardo Narváez de los Santos
+# 👨‍💻 Gerardo Narvaez de los Santos
 ### Data Analyst | Business Intelligence Analyst | Software Development Student
 
 ¡Hola! 👋 Bienvenido a mi perfil de GitHub. Soy un profesional en analítica de datos y operaciones con más de 8 años de experiencia coordinando equipos, optimizando niveles de servicio (SLAs, AHT, forecast) y construyendo soluciones analíticas dinámicas para la toma de decisiones estratégicas[cite: 1.2]. Destacado por un sólido historial de reconocimientos por desempeño (Empleado del Año 2019, 2024 y 2025).
